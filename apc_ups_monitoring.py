@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-""" Script to poll the UPS (via apcupsd) and pushong the data to statsd server
+""" Script to poll the UPS (via apcupsd) and pushing the data to statsd server
     to view the data in an Graphite/Grafana environment.
 """
 
